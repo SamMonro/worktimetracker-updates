@@ -1,4 +1,22 @@
 {
-  "latestVersion": "1.0.7",
-  "downloadUrl": "https://t.me/c/3954603481/9"
+  "com.example.worktimetracker": {
+    "latestVersion": "1.0.7",
+    "downloadUrl": "https://t.me/c/3954603481/9"
+  },
+  "com.example.wifeapp": {
+    "latestVersion": "1.0.0",
+    "downloadUrl": "https://t.me/ваш_канал/ссылка_для_жены"
+  },
+  "com.example.nextapp1": {
+    "latestVersion": "0.0.0",
+    "downloadUrl": ""
+  },
+  "com.example.nextapp2": {
+    "latestVersion": "0.0.0",
+    "downloadUrl": ""
+  },
+  "com.example.nextapp3": {
+    "latestVersion": "0.0.0",
+    "downloadUrl": ""
+  }
 }
